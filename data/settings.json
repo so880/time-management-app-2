@@ -1,0 +1,144 @@
+{
+    "toeic_date": "2026-05-24",
+    "intern_date": "2026-06-01",
+    "daily_hours_toeic": 3,
+    "daily_hours_intern": 2,
+    "study_dur_min": 30,
+    "study_dur_max": 60,
+    "daily_routine": [
+        [
+            {
+                "start": "09:00",
+                "end": "22:00"
+            }
+        ],
+        [
+            {
+                "start": "09:00",
+                "end": "22:00"
+            }
+        ],
+        [
+            {
+                "start": "09:00",
+                "end": "22:00"
+            }
+        ],
+        [
+            {
+                "start": "09:00",
+                "end": "22:00"
+            }
+        ],
+        [
+            {
+                "start": "09:00",
+                "end": "22:00"
+            }
+        ],
+        [
+            {
+                "start": "09:00",
+                "end": "17:30"
+            },
+            {
+                "start": "19:00",
+                "end": "22:00"
+            }
+        ],
+        [
+            {
+                "start": "09:00",
+                "end": "17:30"
+            },
+            {
+                "start": "19:00",
+                "end": "22:00"
+            }
+        ]
+    ],
+    "daily_window": [
+        {
+            "start": "09:00",
+            "end": "22:00"
+        },
+        {
+            "start": "09:00",
+            "end": "22:00"
+        },
+        {
+            "start": "09:00",
+            "end": "22:00"
+        },
+        {
+            "start": "09:00",
+            "end": "22:00"
+        },
+        {
+            "start": "09:00",
+            "end": "22:00"
+        },
+        {
+            "start": "09:00",
+            "end": "22:00"
+        },
+        {
+            "start": "09:00",
+            "end": "22:00"
+        }
+    ],
+    "goals": [
+        {
+            "name": "TOEIC",
+            "date": "2026-08-28",
+            "hours": 2
+        },
+        {
+            "name": "レポート",
+            "date": "2026-08-14",
+            "hours": 1
+        }
+    ],
+    "study_list_disabled": [],
+    "focus_study_list_disabled": [],
+    "refresh_list_disabled": [
+        "料理探し"
+    ],
+    "mustdo_list_disabled": [],
+    "toeic_name": "TOEIC",
+    "intern_name": "インターン",
+    "bg_url": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=2000&auto=format&fit=crop",
+    "bg_mode": "カフェ画像",
+    "bg_history": [],
+    "bg_current_file": "",
+    "snd_cafe_url": "e_04ZrNroTo",
+    "snd_chat_url": "bZ2XhA_kXYQ",
+    "snd_relax_url": "vPhg6sc1Mk4",
+    "mustdo_list": [
+        "応用プログラミング言語　課題",
+        "画像処理　レポート１"
+    ],
+    "study_list": [
+        "時間管理アプリ　コード",
+        "金銭管理アプリ　制作",
+        "英語勉強",
+        "SPI対策"
+    ],
+    "focus_study_list": [
+        "コンピュータネットワーク　レポート",
+        "オペレーティングシステム　レポート"
+    ],
+    "refresh_list": [
+        "料理探し",
+        "読書",
+        "仮眠",
+        "腕立て30回",
+        "腹筋30回",
+        "ダンベル30回",
+        "洋楽カラオケ",
+        "机の掃除",
+        "床の片づけ",
+        "掃除機掛け",
+        "スト6 コンボ練習"
+    ]
+}
