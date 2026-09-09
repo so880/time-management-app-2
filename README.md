@@ -1,3 +1,4 @@
+この版はv1(Python + Streamlit)です。開発は終了しており、最新版は https://github.com/so880/time-management-app-3 です。
 # Focus & Cafe Roulette
 
 勉強と休憩を「ルーレット」で決めて集中するための、個人用デスクトップアプリ。
